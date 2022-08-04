@@ -1,0 +1,36 @@
+                           MAXON
+                           =====
+
+Fonts:------------------
+
+Poppins----Medium
+Poppins----SemiBOLD
+Poppins----BOLD
+Roboto-----Regular
+Roboto-----Medium
+
+font-family: 'Poppins', sans-serif;
+
+font-family: 'Roboto', sans-serif;
+
+Color:-----------------------
+
+Black:--------- #112e41 (p - #888888)
+Background:---- #f7f7f7
+Banner_bg:----- #162b45
+Box-shadow:---- #f6f7fb
+Orange:-------- #ff7214
+
+Footer:-------- #10233a(end)
+
+
+
+HEADER------------------------
+.header{
+padding-top: 35px;
+}
+.menu a{
+	padding-left: 55px;
+}
+
+BANNER------------------------
